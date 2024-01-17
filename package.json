@@ -1,0 +1,19 @@
+{
+  "name": "varun-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varunsharma2001/varun-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varunsharma2001/varun-repo/issues"
+  },
+  "homepage": "https://github.com/varunsharma2001/varun-repo#readme"
+}
